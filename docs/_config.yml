@@ -21,9 +21,10 @@
 title: Salad has a care website
 email: agnes.h.rhee@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome!!! If you are reading this, you have made it to Salad's care page! Thank you for caring for Salad!
-  Hopefully all of your questions will be answered here and that you'll be able to check out some of Salad's best
-  pics. 
+  Welcome!!! If you are reading this, you have made it to Salad's care page! 
+  Thank you for caring for Salad!
+  Hopefully all of your questions will be answered here and 
+  that you'll be able to check out some of Salad's best pics. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  agnesrhee
