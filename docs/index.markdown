@@ -4,8 +4,4 @@
 
 layout: default
 ---
-I'm checking something out mmmmm
-
-title: default
----
-Salad
+Salad care
