@@ -22,8 +22,7 @@ title: Salad has a care website
 email: agnes.h.rhee@gmail.com
 description: |
   Welcome!!! Thank you for caring for Salad! <br>
-  Hopefully all of your questions will be answered here and  <br>
-  that you'll be able to check out some of Salad's best pics. 
+  Hopefully all of your questions will be answered here and that you'll be able to check out some of Salad's best pics. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  agnesrhee
@@ -32,7 +31,7 @@ github_username:  agnesrhee
 #remote_theme: pages-themes/merlot@v0.2.0
 #plugins:
 #- jekyll-remote-theme
-theme: jekyll-theme-merlot
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
