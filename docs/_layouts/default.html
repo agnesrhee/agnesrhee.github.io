@@ -19,10 +19,10 @@
         <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
         {% if site.github.is_project_page %}
-        <a href="/" class="btn">To do</a>
-        <a href="/howto.html" class="btn">How Tos</a>
-        <a href="/about.html" class="btn">About</a>
-        <a href="/pics.html" class="btn">Her best pics</a>
+        <a href="{{'/index.html' | relative_url}}" class="btn">To do</a>
+        <a href="{{'/howto.html' | relative_url}}" class="btn">How Tos</a>
+        <a href="{{'/about.html' | relative_url}}" class="btn">About</a>
+        <a href="{{'/pics.html' | relative_url}}" class="btn">Her best pics</a>
         {% endif %}
         {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
