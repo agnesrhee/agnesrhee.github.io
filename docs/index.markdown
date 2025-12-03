@@ -13,7 +13,7 @@ title: Main page
   </ul>
 
   If her water is low, I like to take the black watering can in the kitchen and pour water on the top part like so! (You have to go slowly or it'll spill even more water on the mat)
-  <img src="{{ '/assets/images/wata.jpg' | relative_url }}" alt="watering can pouring water into Salad's water bowl">
+  <img src="{{ '/assets/images/wata.jpg' | relative_url }}" alt="watering can pouring water into Salad's water bowl" >
 
 <h2>Not required but Salad would love:</h2>
 <ul>
@@ -25,6 +25,7 @@ title: Main page
 
 <h2>Before you go:</h2>
 <ul>
+<li> Share your cute selfies with Salad <a href="https://drive.google.com/drive/folders/14kC88iAFYtnlnDxeHv504JERPINXR8Dx?usp=drive_link">here!</a></li>
   <li>Back door is locked</li>
   <li>Doors are closed (except for Salad's room in the back and main bathroom is fine)</li>
   <li>Please make sure the gate is closed and that Salad is on the kitchen side!</li>
