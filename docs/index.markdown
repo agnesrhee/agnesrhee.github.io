@@ -14,8 +14,7 @@ title: Main page
   THANK YOU!!!!!!!</li>
   </ul>
   <h3 style="color: red;">FYI: Salad can roam the living room but only with your supervision!! She is a sleepy pee girl... :)</h3>
-  <br> <br>
-
+  <br>
   If her water is low, I like to take the black watering can in the kitchen and pour water on the top part like so! (You have to go slowly or it'll spill even more water on the mat)
   <img src="{{ '/assets/images/wata.jpg' | relative_url }}" alt="watering can pouring water into Salad's water bowl" >
 
