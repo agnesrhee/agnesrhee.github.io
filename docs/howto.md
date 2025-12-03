@@ -18,3 +18,4 @@ I will have a carrier out for quick access!
 <b>Garbage bags - </b> Under the kitchen sink<br>
 <b>Cleaning stuff -</b> There is a bottle called angry orange and it'll be next to the paper towels in the kitchen. <br>
 <b>Carrier -</b> In Salad's room holding the extra stuff, such as extra genie litter bags and litter. <br>
+<b>Purple air tag collar -</b> In the container by the back door, it has an air tag and a bell. <br>
