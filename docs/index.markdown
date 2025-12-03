@@ -13,6 +13,8 @@ title: Main page
   <li>If you're checking in on her early in the week, please take her pee pads on her bed and spray it with the angry orange cleaner (in kitchen) and toss in washing machine and replace with fresh ones on the stool in the room.
   THANK YOU!!!!!!!</li>
   </ul>
+  <h1 color ="red">FYI: Salad can roam the living room but only with your supervision!! She is a sleepy pee girl... :)</h1>
+  <br> <br>
 
   If her water is low, I like to take the black watering can in the kitchen and pour water on the top part like so! (You have to go slowly or it'll spill even more water on the mat)
   <img src="{{ '/assets/images/wata.jpg' | relative_url }}" alt="watering can pouring water into Salad's water bowl" >
@@ -24,6 +26,7 @@ title: Main page
   <li>Snackies!! (Greenies & churus)</li>
   <li>Selfies of you and Salad together :) </li>
   </ul>
+
 
 <h2>Before you go:</h2>
 <ul>
