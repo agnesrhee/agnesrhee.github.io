@@ -18,7 +18,7 @@ You should at least have my number so I won't post it haha. We'll be 12 hours ah
 <p>If you don't know, she has a sleeping pee issue (otherwise perfectly healthy). She'll fall asleep deeply and start jerking around in her sleep and then pee. It most likely won't happen when you're there, but if it does happen, pleeeeeease gently wake her up (you can shake her or pick her up) or be prepared to spray her pee spot with cleaner. :( THANK U </p>
 
 <h3>Salad's fav things</h3>
-<p>She prefers loving and petting over playing but she loves her heating pad (it'll be out) and she also loves having her little toys thrown at her for her to chase. Sometimes even her little pink fluffy wand!! Toys will be on the dining table. She'll just wanna hang out with you though!</p>
+<p>She prefers loving and petting over playing but she loves her heating pad (it'll be out) and she also loves having her little toys thrown at her for her to chase. Sometimes even her little pink fluffy wand!! Toys will be on the dining table. She also loves her catnip, you can sprinkle some on the ground and she goes crazy. She'll just wanna hang out with you though!</p>
 
 <h2>Whereabouts</h2>
 <b>Salad's room -</b> in the hallway on the left side at the end!! Her room has her bed, dry food autofeeder, litter box, and extras.<br>
