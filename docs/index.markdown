@@ -13,7 +13,7 @@ title: Main page
   <li>If you're checking in on her early in the week, please take her pee pads on her bed and spray it with the angry orange cleaner (in kitchen) and toss in washing machine and replace with fresh ones on the stool in the room.
   THANK YOU!!!!!!!</li>
   </ul>
-  <h1 color ="red">FYI: Salad can roam the living room but only with your supervision!! She is a sleepy pee girl... :)</h1>
+  <h3 style="color: red;">FYI: Salad can roam the living room but only with your supervision!! She is a sleepy pee girl... :)</h1>
   <br> <br>
 
   If her water is low, I like to take the black watering can in the kitchen and pour water on the top part like so! (You have to go slowly or it'll spill even more water on the mat)
