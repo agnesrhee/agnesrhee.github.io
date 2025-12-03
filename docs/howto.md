@@ -17,3 +17,4 @@ I will have a carrier out for quick access!
 <b>Garbage can - </b> On the outside of the house there's a small wooden gate to the backyard. Trash can and recycle bin are there!<br>
 <b>Garbage bags - </b> Under the kitchen sink<br>
 <b>Cleaning stuff -</b> There is a bottle called angry orange and it'll be next to the paper towels in the kitchen. <br>
+<b>Carrier -</b> In Salad's room holding the extra stuff, such as extra genie litter bags and litter. <br>

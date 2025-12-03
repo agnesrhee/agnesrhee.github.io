@@ -10,6 +10,8 @@ title: Main page
   <li>One can of wet food</li>
   <li>Check her water levels</li>
   <li>Scoop her poop n pee into her litter genie</li>
+  <li>If you're checking in on her early in the week, please take her pee pads on her bed and spray it with the angry orange cleaner (in kitchen) and toss in washing machine and replcae with fresh ones on the stool in the room.
+  THANK YOU!!!!!!!</li>
   </ul>
 
   If her water is low, I like to take the black watering can in the kitchen and pour water on the top part like so! (You have to go slowly or it'll spill even more water on the mat)
