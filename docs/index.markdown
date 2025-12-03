@@ -10,7 +10,7 @@ title: Main page
   <li>One can of wet food</li>
   <li>Check her water levels</li>
   <li>Scoop her poop n pee into her litter genie</li>
-  <li>If you're checking in on her early in the week, please take her pee pads on her bed and spray it with the angry orange cleaner (in kitchen) and toss in washing machine and replcae with fresh ones on the stool in the room.
+  <li>If you're checking in on her early in the week, please take her pee pads on her bed and spray it with the angry orange cleaner (in kitchen) and toss in washing machine and replace with fresh ones on the stool in the room.
   THANK YOU!!!!!!!</li>
   </ul>
 
