@@ -12,6 +12,9 @@ title: Main page
   <li>Scoop her poop n pee into her litter genie</li>
   </ul>
 
+  If her water is low, I like to take the black watering can in the kitchen and pour water on the top part like so! (You have to go slowly or it'll spill even more water on the mat)
+  <img src="{{ '/assets/images/wata.jpg' | relative_url }}" alt="watering can pouring water into Salad's water bowl">
+
 <h2>Not required but Salad would love:</h2>
 <ul>
   <li>Outside time!!! She is slow and I follow her around. I put her purple collar on! But if you don't feel confident in catching her, don't worry about taking her out!</li>
