@@ -14,4 +14,6 @@ Salad on October 20, 2021!! Now she is spoiled and loved by many!!</p>
 <h2>Name origin</h2>
 <p>Salad was her original shelter name! Thomas wanted a dog but saw how cute Salad was and how much I wanted her so he agreed ONLY IF I kept her shelter name.
 While I know I could have changed it, Salad ended up sticking and I feel like she can't be anything else BUT Salad.</p>
-
+<h2>For the fans</h2>
+<p>You should know I'm so obsessed with my girl Salad by this website I made for her but if you want more Salad content (I understand), check her instagram out!
+<a href="https://www.instagram.com/miss___salad/">She loves instagram</a></p>
