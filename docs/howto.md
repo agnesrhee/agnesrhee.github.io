@@ -12,7 +12,7 @@ Salad's vet info:
 Phone number: 804-308-8920<br>
 I will have a carrier out for quick access! Only for emergencies, so I hope you never have to use it!
 
-You should at least have my number so I won't post it haha. We'll be 12 hours ahead of you so it might be hard to get in touch ASAP but I'll be on the lookout and you should be able to text or call if needed. 
+You should at least have my number so I won't post it haha.
 
 <h3>Concerning Salad's sleep thing</h3>
 <p>If you don't know, she has a sleeping pee issue (otherwise perfectly healthy). She'll fall asleep deeply and start jerking around in her sleep and then pee. It most likely won't happen when you're there, but if it does happen, pleeeeeease gently wake her up (you can shake her or pick her up) or be prepared to spray her pee spot with cleaner. :( THANK U </p>
